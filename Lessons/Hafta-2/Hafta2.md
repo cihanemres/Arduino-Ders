@@ -28,6 +28,9 @@
 - Diğer bacağı → **pin 2** ve **10kΩ** ile **GND** (pull‑down)
 - Bu senaryoda `pinMode(buttonPin, INPUT);` ve **basılınca HIGH** okunur.
 
+  <img width="1920" height="814" alt="Fantabulous Curcan" src="https://github.com/user-attachments/assets/77c725c8-b3c0-489d-9105-ba1695c1abaf" />
+
+
 ## 🔄 Algoritma (Algorithm / Flowchart Idea)
 **TR:** Başla → Buton durumunu oku → Eğer basılıysa LED ON, değilse LED OFF → Tekrar et  
 **EN:** Start → Read button state → If pressed LED ON, else OFF → Repeat
