@@ -19,6 +19,9 @@
 - Butonun diğer bacağı → Arduino **pin 2**
 - Kodda `pinMode(buttonPin, INPUT_PULLUP);` kullanılacağı için **buton basılmadığında HIGH**, **basıldığında LOW** okunur.
 
+  
+<img width="1920" height="814" alt="buton_led" src="https://github.com/user-attachments/assets/edb92039-787d-4ab6-9a78-e15c060dc618" />
+
 **Option B – Harici Pull‑Down (alternatif):**
 - LED bağlantısı aynı.
 - Butonun bir bacağı → **5V**
@@ -74,3 +77,5 @@ void loop() {
 2. Arduino Uno, LED, 220Ω, buton ekle.  
 3. Yukarıdaki bağlantıları yap, kodu kopyala.  
 4. **Start Simulation** ile test et.
+
+tinkercad link: https://www.tinkercad.com/things/9yI4efM0mYi-butonled?sharecode=nf-DKjZufShY0kxEzF6Qm5I2jzhGn-V3_hL_g3cvBKo
