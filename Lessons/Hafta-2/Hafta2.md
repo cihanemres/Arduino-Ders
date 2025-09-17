@@ -35,6 +35,9 @@
 **TR:** Başla → Buton durumunu oku → Eğer basılıysa LED ON, değilse LED OFF → Tekrar et  
 **EN:** Start → Read button state → If pressed LED ON, else OFF → Repeat
 
+
+<img width="371" height="416" alt="Untitled Diagram drawio (2)" src="https://github.com/user-attachments/assets/9cbf0c7c-da32-4534-99ba-6a31767d9091" />
+
 ## 💻 Arduino Kodu (Arduino Code with Comments)
 Aşağıdaki örnek **INPUT_PULLUP** mantığıyla yazılmıştır (Seçenek A).
 
