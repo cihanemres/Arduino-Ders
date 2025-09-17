@@ -27,7 +27,11 @@ This file contains lesson notes in Turkish and English for the LED blink project
 * LED’in uzun bacağı (anot / **anode**) → Arduino **pin 13**  
 * LED’in kısa bacağı (katot / **cathode**) → Direnç → Arduino **GND**
 
+  
+<img width="1920" height="859" alt="Grand Kieran-Bigery" src="https://github.com/user-attachments/assets/f617526c-77a0-4a31-bdc6-409ef5d7c279" />
+
 ---
+
 
 ## 🔄 Algoritma / Algorithm (Flowchart Idea)
 
@@ -83,3 +87,8 @@ void loop() {
 
 👉 Bu kod sayesinde LED **1 saniye yanar – 1 saniye söner** ve döngü sürekli devam eder.  
 👉 With this code, the LED stays **ON for 1 second – OFF for 1 second**, repeating forever.
+
+
+# tinkercad üzerinden devreye ve kodlara ulaşmak için :
+https://www.tinkercad.com/things/59ACrs4ZCoz-blink
+
