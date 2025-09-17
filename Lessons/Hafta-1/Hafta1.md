@@ -38,6 +38,9 @@ This file contains lesson notes in Turkish and English for the LED blink project
 **TR:** Başla → LED’i yak → 1 saniye bekle → LED’i söndür → 1 saniye bekle → Tekrar et  
 **EN:** Start → Turn LED ON → Wait 1 s → Turn LED OFF → Wait 1 s → Repeat
 
+
+<img width="306" height="341" alt="Untitled Diagram drawio (1)" src="https://github.com/user-attachments/assets/8f651e12-dedb-4a89-a0db-ba58bed8cde2" />
+
 ---
 
 ## 💻 Arduino Kodu / Arduino Code with Comments
