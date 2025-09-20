@@ -15,6 +15,8 @@
 - Sarı LED (anot) → **pin 9**, (katot) → **220Ω** → **GND**
 - Yeşil LED (anot) → **pin 10**, (katot) → **220Ω** → **GND**
 
+<img width="1920" height="814" alt="traffic_light" src="https://github.com/user-attachments/assets/e00bb222-7d28-4533-8e13-79c2b354112d" />
+
 **Not / Note:** LED’in uzun bacağı **anot ( + )**, kısa bacağı **katot ( – )**’dur. Katodu dirence, dirençten GND’ye bağlayın.
 
 ## 🔄 Algoritma (Algorithm / Flowchart Idea)
@@ -84,3 +86,4 @@ void allOff() {
 2. Arduino Uno + 3 LED + 3×220Ω ekleyin.  
 3. Bağlantıları yapın ve kodu kopyalayın.  
 4. **Start Simulation** ile test edin.
+tinkercad örnek adresi: https://www.tinkercad.com/things/a6um54iwGgF-trafficlight?sharecode=SsBQ5yr_MTeDLO4HEwIQvBoedwQgZdsq4eQ5NFg0_yU
