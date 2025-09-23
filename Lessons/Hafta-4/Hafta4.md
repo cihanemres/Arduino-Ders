@@ -13,6 +13,7 @@
 ## ⚡ Devre Bağlantısı (Circuit Wiring)
 - Piezo buzzer (+) → Arduino **pin 8**
 - Piezo buzzer (–) → **GND**
+<img width="1920" height="814" alt="Cool Maimu-Uusam" src="https://github.com/user-attachments/assets/414eed44-4613-405e-865a-2195b1dcb66f" />
 
 Not: Pasif buzzer kullanıyorsanız `tone()` fonksiyonuyla frekans ayarlayabilirsiniz.
 
@@ -47,3 +48,5 @@ void loop() {
 2. Arduino Uno + Piezo buzzer ekleyin.  
 3. Yukarıdaki bağlantıları yapın.  
 4. Kodu kopyalayıp **Start Simulation** ile çalıştırın.
+
+https://www.tinkercad.com/things/6GCa8sbkSF0-buzzer?sharecode=C4y7n9QwyiSsA76IDGufYK-ebjbBIpq-ilj6PSFUd30
