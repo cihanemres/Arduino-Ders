@@ -1,4 +1,4 @@
-# 📘 Hafta 5 – Potansiyometre ile LED Parlaklık Kontrolü / Week 5 – LED Brightness Control with Potentiometer (PWM)
+# 📘 Ders 5 – Potansiyometre ile LED Parlaklık Kontrolü / Week 5 – LED Brightness Control with Potentiometer (PWM)
 
 ## 🎯 Dersin Amacı (Objective)
 **TR:** Potansiyometreden alınan analog değeri kullanarak LED’in parlaklığını PWM sinyali ile kontrol etmek.  
@@ -22,7 +22,7 @@
 
 ## 💻 Arduino Kodu (Arduino Code with Comments)
 ```cpp
-// Hafta 5: Potansiyometre ile LED Parlaklık Kontrolü / Week 5: LED Brightness Control
+// Ders 5: Potansiyometre ile LED Parlaklık Kontrolü / Week 5: LED Brightness Control
 // TR: Potansiyometreden okunan değer ile LED parlaklığını ayarlar.
 // EN: Adjusts LED brightness based on potentiometer input.
 
