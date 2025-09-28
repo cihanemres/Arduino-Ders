@@ -19,6 +19,7 @@
 ## 🔄 Algoritma (Algorithm / Flowchart Idea)
 **TR:** Başla → Potansiyometreden analog değer oku (0–1023) → Değeri 0–255 aralığına eşle → LED parlaklığını ayarla → Tekrar et  
 **EN:** Start → Read potentiometer (0–1023) → Map to 0–255 → Set LED brightness → Repeat  
+<img width="1920" height="814" alt="Cool Maimu" src="https://github.com/user-attachments/assets/edba1e61-f5f8-49ee-b8cb-06efe7447c0d" />
 
 ## 💻 Arduino Kodu (Arduino Code with Comments)
 ```cpp
@@ -50,3 +51,5 @@ void loop() {
 2. Arduino, LED, direnç ve potansiyometre ekleyin.  
 3. Bağlantıları yapın, kodu kopyalayın.  
 4. **Start Simulation** ile test edin.
+
+https://www.tinkercad.com/things/d66D0U3SWhv-potpwm?sharecode=NXZUbBSVjn1xYPnNGV6Ux75yv2-uL83qzTgeinT8SXE
