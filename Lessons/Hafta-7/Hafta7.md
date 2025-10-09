@@ -67,3 +67,7 @@ void loop() {
 2. Arduino Uno + DHT11 sensör ekleyin.  
 3. DATA pinini 2 numaralı pine bağlayın.  
 4. Kodu kopyalayıp **Start Simulation** ile çalıştırın.
+
+Tinkercad'de simülasyon yapmak için: https://www.tinkercad.com/things/7EYT2gDr8fH-dht11?sharecode=s3nDj4YarecbAFFNipEew99VZigau5dYQd75t6-_xG8
+
+Not: Tinkercad üzerinde DHT11 olmadığı için TMP36 sensör kullanılmıştır.
