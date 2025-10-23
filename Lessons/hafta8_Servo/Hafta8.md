@@ -15,6 +15,9 @@
 - Servo **Kırmızı (VCC)** → **5V**
 - Servo **Kahverengi/Siyah (GND)** → **GND**
 
+- <img width="772" height="329" alt="image" src="https://github.com/user-attachments/assets/9b76bcae-9c48-4484-a98d-6be8fd2459b2" />
+
+
 ## 🔄 Algoritma (Algorithm / Flowchart Idea)
 TR: Başla → Servo 0° → Servo 90° → Servo 180° → Tekrar  
 EN: Start → Servo to 0° → Servo to 90° → Servo to 180° → Repeat
@@ -52,3 +55,5 @@ void loop() {
 2. Arduino Uno + Servo motor ekleyin.  
 3. Servo sinyal pinini 9’a bağlayın.  
 4. Kodu kopyalayıp **Start Simulation** ile test edin.
+
+Tinkercad Linki: https://www.tinkercad.com/things/34DT5nRCKUH-servo1?sharecode=Ifwdrod764lN0NcpqxrwvEETxuJIjRehL8gh69AF08U
