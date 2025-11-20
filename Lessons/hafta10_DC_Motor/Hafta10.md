@@ -20,6 +20,7 @@
 - Motorun diğer ucu → **Harici +V (ör. 6V)**
 - **Diyot**: Motor uçlarına paralel **(katot +V tarafına, anot transistör tarafına)** (flyback koruması)
 - **Ortak Toprak**: Arduino GND ile harici güç GND **birleştirilmeli**
+<img width="1920" height="814" alt="dcmotor1" src="https://github.com/user-attachments/assets/5a25f504-699e-4dea-98bf-b020f087d372" />
 
 > Not: Yüksek akımlarda transistör yerine **L298N/L293D** gibi sürücüler tercih edin.
 
@@ -66,3 +67,12 @@ void loop() {
 2. Arduino + DC motor + transistör + diyot devresini kurun (veya L298N).  
 3. PWM pinini 9’a bağlayın, ortak GND’yi unutmayın.  
 4. Kodu kopyalayıp **Start Simulation** ile test edin.
+
+   link: https://www.tinkercad.com/things/2XqgRhi0gB9-dcmotor1?sharecode=Rmv6t5PVPYJGMTEo0RUbLTrpejGDKM9-k7wCXlfxkoc
+
+
+   Ayrıca L293d ile engelden kaçan robot için kod ve devre tasarımı için link: https://www.tinkercad.com/things/4uQwSzZrWKg-engeldenkacanrobot?sharecode=CdhGo4XaMj6lBbFVS46OOyRjCtr86COSFUYgNibUJR4
+
+<img width="1920" height="814" alt="engelden_kacan_robot" src="https://github.com/user-attachments/assets/70f38c5f-19a6-4970-97c4-59987a7e011e" />
+
+   
