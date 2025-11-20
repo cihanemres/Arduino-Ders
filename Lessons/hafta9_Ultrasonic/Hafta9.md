@@ -14,6 +14,7 @@
 - **GND** → GND  
 - **TRIG** → Arduino **pin 9**  
 - **ECHO** → Arduino **pin 8**
+<img width="1920" height="814" alt="ultrasonik2" src="https://github.com/user-attachments/assets/36f8f973-ab01-449f-bf9b-9788cd56c919" />
 
 > Not: HC-SR04 5V ile çalışır; Arduino Uno dijital pinleri de 5V uyumludur.
 
@@ -76,3 +77,5 @@ void loop() {
 1. [Tinkercad Circuits](https://www.tinkercad.com/circuits) → **Create new Circuit**  
 2. Arduino + HC-SR04 ekleyin, TRIG=9 / ECHO=8 bağlayın.  
 3. Kodu kopyalayıp **Start Simulation** ile çalıştırın.
+
+Tinkercad Linki: https://www.tinkercad.com/things/eL75QpUgJX9-ultrasonik2?sharecode=g-9qOY10GJk8I8w9PTr9fjR2buHkRR37WzhQ_pMTtlc
